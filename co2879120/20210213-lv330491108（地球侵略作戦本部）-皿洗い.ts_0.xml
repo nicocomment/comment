@@ -1,0 +1,615 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<packet>
+<thread resultcode="0" thread="M.dHWN1JztDIphW45B_quHTA" revision="1" server_time="1613210759" last_res="1" ticket="efa3e41f" />
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="1" vpos="629" date="1613210777" date_usec="387328" mail="184 white naka medium" user_id="Aqm5GWsbYYrA3qSF3X27N27CROQ" anonymity="1">こんにちは</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="2" vpos="1976" date="1613210781" date_usec="561153" user_id="2980337" premium="1">こんばんはー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="3" vpos="2267" date="1613210782" date_usec="519666" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ざわ･･･</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="4" vpos="2355" date="1613210783" date_usec="396480" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ざわ･･･</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="5" vpos="2471" date="1613210785" date_usec="932413" mail="184" user_id="sq91lMdfb37_vJiY0HnBywxmFRI" premium="1" anonymity="1">皿洗い妖怪</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="6" vpos="2043" date="1613210789" date_usec="436627" mail="184" user_id="wCK5RIT7jMcwRcetGQB6JEm0Cq8" anonymity="1">あんなちゃーん</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="7" vpos="1930" date="1613210789" date_usec="644976" mail="184" user_id="xfzIk7GGWJl51oViU_ApUcX2pQw" anonymity="1">みけちゃんわこつ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="8" vpos="2650" date="1613210789" date_usec="805503" mail="184 white naka medium" user_id="sGdDJZ-QxPL1Oj2xvbl9J4tY_PI" premium="1" anonymity="1">こんばんUFO</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="9" vpos="2812" date="1613210790" date_usec="578893" mail="184" user_id="JomMdnRmSD7XqjvvP7_TvtI2rUQ" anonymity="1">音声で皿洗い</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="10" vpos="3107" date="1613210792" date_usec="656104" user_id="9032439">よう</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="11" vpos="3293" date="1613210792" date_usec="779166" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion うがい×10</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="12" vpos="3652" date="1613210796" date_usec="369964" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="13" vpos="3304" date="1613210796" date_usec="562254" user_id="3403736" premium="1">こんばんUFO</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="14" vpos="3136" date="1613210796" date_usec="630689" user_id="86682259" premium="1">こんばんは</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="15" vpos="3688" date="1613210796" date_usec="723658" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="16" vpos="3646" date="1613210797" date_usec="365267" mail="184" user_id="w9KI_gpsFCUsFdun0fta8Yt7V6w" anonymity="1">妖怪皿舐め</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="17" vpos="3634" date="1613210797" date_usec="402883" mail="184" user_id="_VMJf8X4Z3-RizQdW3yCMlvD9go" anonymity="1">何枚洗うの？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="18" vpos="4297" date="1613210802" date_usec="814938" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい×3</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="19" vpos="4032" date="1613210803" date_usec="619377" user_id="33852158" premium="1">食洗機</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="20" vpos="3879" date="1613210809" date_usec="674410" mail="184 white naka medium" user_id="7XUBsOpSsKgH4toNTpqP_wdvWKE" premium="1" anonymity="1">妖怪皿洗い</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="21" vpos="4288" date="1613210813" date_usec="500" mail="184 white naka medium" user_id="euSYMD-p-K7F2_pKc4SgtOV-RWI" premium="1" anonymity="1">すき</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="22" vpos="5269" date="1613210814" date_usec="498551" user_id="28741976">春のパン祭り実施中  </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="23" vpos="4795" date="1613210814" date_usec="683284" mail="184" user_id="DKK-XvVc41AuX_5IFu5YNQ-CJ-Q" anonymity="1">三毛</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="24" vpos="5491" date="1613210816" date_usec="680222" user_id="2980337" premium="1">結構洗い物たまってる感じですか</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="25" vpos="5640" date="1613210819" date_usec="537658" user_id="4545774">ｼｬﾜｰｰｰｰ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="26" vpos="5743" date="1613210819" date_usec="889582" mail="184" user_id="JomMdnRmSD7XqjvvP7_TvtI2rUQ" anonymity="1">聞いてください皿洗い</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="27" vpos="5891" date="1613210820" date_usec="496967" user_id="9032439">なしとん</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="28" vpos="5951" date="1613210820" date_usec="759021" mail="184" user_id="sq91lMdfb37_vJiY0HnBywxmFRI" premium="1" anonymity="1">1枚足りない</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="29" vpos="5785" date="1613210821" date_usec="615306" mail="184" user_id="8q-xGZQ-iVyHIPRmquSejpiR_qE" anonymity="1">どん</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="30" vpos="5863" date="1613210822" date_usec="191362" mail="184 white naka medium" user_id="lPWbDSj9c3bVyQ5BlwJfdxOxXec" anonymity="1">こんばんUFO</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="31" vpos="6300" date="1613210822" date_usec="344286" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":400,"message":"【広告貢献1位】はっくさんが400ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="32" vpos="6206" date="1613210824" date_usec="191277" mail="184" user_id="nSH0YOLEPBJfYMFj81rpsvAQx5k" anonymity="1">皿</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="33" vpos="7000" date="1613210829" date_usec="523258" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/info 8 第11位にランクインしました</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="34" vpos="7397" date="1613210835" date_usec="220343" mail="184" user_id="TA07UiFKHifzuC7nkBhzR_kAXbY" anonymity="1">皿洗いのバイト</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="35" vpos="6993" date="1613210838" date_usec="910719" mail="184" user_id="wCK5RIT7jMcwRcetGQB6JEm0Cq8" anonymity="1">妖怪佐野の彼女？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="36" vpos="8065" date="1613210841" date_usec="975803" user_id="2363303" premium="1">皿洗いUFO  </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="37" vpos="8193" date="1613210843" date_usec="657308" mail="184" user_id="5E112Qx1LonFfU1VIe6sexSMdaI" premium="1" anonymity="1">ミケさんちーっす</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="38" vpos="8380" date="1613210846" date_usec="35772" mail="184" user_id="F3zisxPDUyg6QRboPkBljVvWkP0" anonymity="1">お風呂ですか</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="39" vpos="7570" date="1613210846" date_usec="505187" mail="184 white naka medium" user_id="Aqm5GWsbYYrA3qSF3X27N27CROQ" anonymity="1">ぼんちゃんの皿</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="40" vpos="8052" date="1613210850" date_usec="639391" mail="184" user_id="O8fD0hR8Ae0B0O3G6_VTgGeN9Pg" anonymity="1">サイテー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="41" vpos="8219" date="1613210852" date_usec="413594" mail="184" user_id="xfzIk7GGWJl51oViU_ApUcX2pQw" anonymity="1">皿洗いRTA</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="42" vpos="8142" date="1613210852" date_usec="523376" mail="184" user_id="RGJZzi3l9umNYPNaC5Kp9YOGWfg" premium="1" anonymity="1">皿洗う時だけ呼びやがって</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="43" vpos="9676" date="1613210860" date_usec="314384" mail="184 white naka medium" user_id="lPWbDSj9c3bVyQ5BlwJfdxOxXec" anonymity="1">フライイングソーサー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="44" vpos="9906" date="1613210867" date_usec="854203" mail="184 white naka medium" user_id="maUja7XDyQHFi9RGIfpIO45R1YQ" premium="1" anonymity="1">お、おう</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="45" vpos="10735" date="1613210869" date_usec="166648" user_id="15080559" premium="1">家事はかどるね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="46" vpos="11028" date="1613210872" date_usec="736721" mail="184" user_id="JomMdnRmSD7XqjvvP7_TvtI2rUQ" anonymity="1">皿洗いの音声聞かされる俺らって</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="47" vpos="11708" date="1613210878" date_usec="852821" user_id="2980337" premium="1">水出しっぱなし？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="48" vpos="11555" date="1613210886" date_usec="354273" mail="184 white naka medium" user_id="Aqm5GWsbYYrA3qSF3X27N27CROQ" anonymity="1">皿洗い配信って今の流行りですよね？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="49" vpos="13134" date="1613210900" date_usec="313964" mail="184" user_id="wCK5RIT7jMcwRcetGQB6JEm0Cq8" anonymity="1">皿洗いを見守る会</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="50" vpos="14165" date="1613210904" date_usec="825285" user_id="4545774">なんという配信ｗ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="51" vpos="14683" date="1613210906" date_usec="679105" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="52" vpos="14769" date="1613210907" date_usec="535559" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion うがい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="53" vpos="14639" date="1613210909" date_usec="523580" user_id="4545774">苦行ｗ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="54" vpos="15302" date="1613210912" date_usec="868444" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="55" vpos="15199" date="1613210913" date_usec="201304" mail="184" user_id="sq91lMdfb37_vJiY0HnBywxmFRI" premium="1" anonymity="1">映像も見せろや</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="56" vpos="15357" date="1613210915" date_usec="349049" user_id="2980337" premium="1">先にスポンジで全部洗ってからお湯だして流したほうがよさそうだけど</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="57" vpos="15595" date="1613210915" date_usec="799141" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="58" vpos="15544" date="1613210916" date_usec="903599" mail="184" user_id="F3zisxPDUyg6QRboPkBljVvWkP0" anonymity="1">どこ洗ってるんですか</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="59" vpos="15730" date="1613210917" date_usec="145767" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion うがい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="60" vpos="15814" date="1613210917" date_usec="987786" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion うがい×2、てあらい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="61" vpos="15960" date="1613210922" date_usec="36015" user_id="26295560" premium="1">あいがみは斬新ね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="62" vpos="16296" date="1613210922" date_usec="802756" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい×4、うがい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="63" vpos="15653" date="1613210923" date_usec="42686" mail="184" user_id="qSqY1fCNyXBLxefBNzCLEd3Z1w8" anonymity="1">顔出せ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="64" vpos="16351" date="1613210925" date_usec="291846" user_id="2980337" premium="1">生活感があっていいね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="65" vpos="16235" date="1613210925" date_usec="363480" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">お湯あったけーってなるよね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="66" vpos="16477" date="1613210926" date_usec="190600" mail="184" user_id="tilusmUPNo4UQnGF-icALukImDw" anonymity="1">ようかい皿洗い、わごづ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="67" vpos="16808" date="1613210927" date_usec="921522" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい×3</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="68" vpos="17189" date="1613210931" date_usec="737917" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion !</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="69" vpos="17363" date="1613210933" date_usec="478343" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion !</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="70" vpos="17259" date="1613210934" date_usec="75920" mail="184" user_id="F3zisxPDUyg6QRboPkBljVvWkP0" anonymity="1">背中お流ししましょうか</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="71" vpos="17775" date="1613210937" date_usec="597248" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion !×3</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="72" vpos="17715" date="1613210939" date_usec="27148" mail="184" user_id="SzkQlDQ_47rRHKWU8CvtsWViQVY" premium="1" anonymity="1">ちょうど皿洗いの音聞きたかったんだよね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="73" vpos="17717" date="1613210948" date_usec="109306" mail="184 white naka medium" user_id="Aqm5GWsbYYrA3qSF3X27N27CROQ" anonymity="1">音www</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="74" vpos="18761" date="1613210951" date_usec="129199" mail="184 white naka medium guest" user_id="kLweUkxfrHpzvEXNKacPQhSnYVM" anonymity="1">耳の後ろもよく洗うんだぞ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="75" vpos="18998" date="1613210951" date_usec="603865" user_id="15080559" premium="1">水の音は癒される</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="76" vpos="19514" date="1613210956" date_usec="606201" mail="184" user_id="F3zisxPDUyg6QRboPkBljVvWkP0" anonymity="1">えっちな音だしやがって</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="77" vpos="19809" date="1613210962" date_usec="948156" mail="184" user_id="BOlBGqe2heukJEenzndkBooppI0" anonymity="1">聖水ありがたい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="78" vpos="20481" date="1613210966" date_usec="587833" user_id="2980337" premium="1">風邪？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="79" vpos="20397" date="1613210972" date_usec="944102" mail="184" user_id="wCK5RIT7jMcwRcetGQB6JEm0Cq8" anonymity="1">この水でお茶を飲みます</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="80" vpos="20308" date="1613210973" date_usec="967099" mail="184 white naka medium" user_id="7XUBsOpSsKgH4toNTpqP_wdvWKE" premium="1" anonymity="1">像並みのションベンの了解</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="81" vpos="21773" date="1613210979" date_usec="197409" mail="184" user_id="F3zisxPDUyg6QRboPkBljVvWkP0" anonymity="1">びちょびちょやないかい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="82" vpos="20872" date="1613210979" date_usec="561587" mail="184 white naka medium" user_id="Aqm5GWsbYYrA3qSF3X27N27CROQ" anonymity="1">マニアが喜んでます</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="83" vpos="21956" date="1613210980" date_usec="943522" mail="184" user_id="UlQh5b6dNs2f_GsQ1I0M2_WNgxg" anonymity="1">コロッたのか？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="84" vpos="22124" date="1613210985" date_usec="128603" user_id="9032439">早く終わらせて</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="85" vpos="22412" date="1613210987" date_usec="105926" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">そう言えばasmrはどうなった？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="86" vpos="25627" date="1613211016" date_usec="111193" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion  </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="87" vpos="25700" date="1613211016" date_usec="540910" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":700,"message":"ピンクダークの少年さんが300ptニコニ広告しました「もまいらおつかれ」","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="88" vpos="25104" date="1613211021" date_usec="116184" user_id="16484395" premium="1">こんばんUFO</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="89" vpos="25865" date="1613211022" date_usec="191562" mail="184 white naka medium guest" user_id="kLweUkxfrHpzvEXNKacPQhSnYVM" anonymity="1">ちょっと松屋にハンバーグ買いに行く</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="90" vpos="26063" date="1613211024" date_usec="112735" user_id="68484923">込めるんじゃないのか</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="91" vpos="25875" date="1613211024" date_usec="290446" mail="184" user_id="BOlBGqe2heukJEenzndkBooppI0" anonymity="1">屍体の解体でもしてるんですか</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="92" vpos="26179" date="1613211025" date_usec="671010" user_id="9032439">能書きはいいから手を動かせ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="93" vpos="26478" date="1613211026" date_usec="175926" mail="184" user_id="UlQh5b6dNs2f_GsQ1I0M2_WNgxg" anonymity="1">心の目でみたら裸エプロンだった</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="94" vpos="26512" date="1613211028" date_usec="796543" mail="184" user_id="hfjI8o5VrnzJO6Uk8GYQGg9mcCM" anonymity="1">  </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="95" vpos="27258" date="1613211032" date_usec="421359" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ほっこり</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="96" vpos="26961" date="1613211032" date_usec="628391" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">風邪ですか？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="97" vpos="26945" date="1613211034" date_usec="663606" user_id="55003163">今あいで、抜いてたよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="98" vpos="27141" date="1613211040" date_usec="386829" mail="184" user_id="wCK5RIT7jMcwRcetGQB6JEm0Cq8" anonymity="1">精液飲み過ぎ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="99" vpos="27870" date="1613211042" date_usec="900627" mail="184" user_id="RGJZzi3l9umNYPNaC5Kp9YOGWfg" premium="1" anonymity="1">藍上さんのキッチン汚いの想像つくから気にしなくていいのに</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="100" vpos="27321" date="1613211043" date_usec="429667" mail="184" user_id="xfzIk7GGWJl51oViU_ApUcX2pQw" anonymity="1">味で勝負お願いします</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="101" vpos="28946" date="1613211060" date_usec="702343" mail="184" user_id="PVFjW6wv6X8NvEy_eA4aYI4dzn8" anonymity="1">藍上ちゃんの痰入りチョコください</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="102" vpos="30332" date="1613211064" date_usec="299279" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">こんばんは</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="103" vpos="30367" date="1613211065" date_usec="480296" user_id="28741976">ASMR</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="104" vpos="30777" date="1613211069" date_usec="536655" user_id="2980337" premium="1">予め食器は水につけておいて、洗う時は水止めて全部洗ってからお湯出したほうが良いよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="105" vpos="31397" date="1613211077" date_usec="94373" mail="white naka medium" user_id="27705886">つかれたわほんと。人間界以外も似たようなものなのかなぁ。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="106" vpos="31828" date="1613211078" date_usec="125579" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="107" vpos="31672" date="1613211078" date_usec="497805" user_id="2980337" premium="1">水道代結構高くなっちゃうかも</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="108" vpos="32500" date="1613211084" date_usec="99540" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":3700,"message":"ネコに小判さんが3000ptニコニ広告しました「今トレンドの皿洗い配信です見に来てね」","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="109" vpos="32665" date="1613211086" date_usec="499170" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="110" vpos="32793" date="1613211089" date_usec="711491" user_id="2980337" premium="1">水道じゃないか</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="111" vpos="33093" date="1613211091" date_usec="914048" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">洗っている音がする</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="112" vpos="34091" date="1613211100" date_usec="755199" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="113" vpos="34132" date="1613211101" date_usec="162731" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="114" vpos="34794" date="1613211107" date_usec="784210" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★×3</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="115" vpos="34518" date="1613211108" date_usec="778423" mail="184 white naka medium" user_id="-92wg2EPCW5iXKlt7JHhSw6V4FY" anonymity="1">こんばんかっぱ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="116" vpos="35290" date="1613211112" date_usec="744872" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion  </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="117" vpos="35049" date="1613211113" date_usec="505827" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">排水口の音がリアル</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="118" vpos="35592" date="1613211117" date_usec="306236" mail="184" user_id="UlQh5b6dNs2f_GsQ1I0M2_WNgxg" anonymity="1">あるけど油ものとか食洗機よく落ちないんだが</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="119" vpos="35259" date="1613211122" date_usec="70288" mail="184 white naka medium" user_id="tCEQAe-L4mr4CTidEmtcCdRjgNA" premium="1" anonymity="1">こんばんUFO</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="120" vpos="36115" date="1613211122" date_usec="130371" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">お弁当良いね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="121" vpos="36417" date="1613211125" date_usec="934721" user_id="2980337" premium="1">いいね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="122" vpos="36754" date="1613211129" date_usec="151025" user_id="15080559" premium="1">お弁当いいね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="123" vpos="36994" date="1613211129" date_usec="785942" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ほっこり</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="124" vpos="37100" date="1613211130" date_usec="561182" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/info 8 第3位にランクインしました</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="125" vpos="36817" date="1613211131" date_usec="625177" mail="184" user_id="hfjI8o5VrnzJO6Uk8GYQGg9mcCM" anonymity="1">  </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="126" vpos="37323" date="1613211135" date_usec="32957" user_id="28741976">ﾍﾙｼｰﾗｲﾌ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="127" vpos="36799" date="1613211138" date_usec="210225" mail="184" user_id="xfzIk7GGWJl51oViU_ApUcX2pQw" anonymity="1">隅々まで落ちてるのか不安</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="128" vpos="37951" date="1613211139" date_usec="359237" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ほっこり</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="129" vpos="37975" date="1613211141" date_usec="512028" user_id="2980337" premium="1">弁当箱くらい1分くらいじゃないのｗ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="130" vpos="38321" date="1613211143" date_usec="53135" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion なるほど</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="131" vpos="37931" date="1613211143" date_usec="641822" mail="184" user_id="AIELG6fzVcoKTnSHgvHU94JvTSY" anonymity="1">愛ちゃんも　水着　皿洗い配信しよう</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="132" vpos="36399" date="1613211144" date_usec="764396" mail="184" user_id="OH1gk8a9AL3b7OsthPAQnRvdE0g" premium="1" anonymity="1">ミケこんばんわ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="133" vpos="38387" date="1613211145" date_usec="251783" mail="184" user_id="UlQh5b6dNs2f_GsQ1I0M2_WNgxg" anonymity="1">中性洗剤つけ置きの方がいいやろ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="134" vpos="38404" date="1613211147" date_usec="404773" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">野菜弁当ってあんまないよね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="135" vpos="39175" date="1613211153" date_usec="137222" mail="184" user_id="UlQh5b6dNs2f_GsQ1I0M2_WNgxg" anonymity="1">温野菜とか？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="136" vpos="40100" date="1613211160" date_usec="702043" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":6700,"message":"【広告貢献3位】ピンクダークの少年さんが3000ptニコニ広告しました「いきてるだけではもうかりません」","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="137" vpos="39272" date="1613211161" date_usec="875066" user_id="55003163">永谷園の麻婆春雨</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="138" vpos="40280" date="1613211166" date_usec="989288" mail="184" user_id="RGJZzi3l9umNYPNaC5Kp9YOGWfg" premium="1" anonymity="1">野菜しか言ってませんやん</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="139" vpos="40662" date="1613211168" date_usec="207589" user_id="15080559" premium="1">好きなの食べれるからね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="140" vpos="40968" date="1613211170" date_usec="690469" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">ブロッコリーとか入れやすそうだね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="141" vpos="41700" date="1613211176" date_usec="183313" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":9700,"message":"【広告貢献2位】マサイジャンプさんが3000ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="142" vpos="41153" date="1613211183" date_usec="76586" user_id="16484395" premium="1">キュキュットクリア泡スプレーいいですよ </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="143" vpos="42466" date="1613211184" date_usec="500452" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion 見てるよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="144" vpos="42596" date="1613211185" date_usec="804047" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion 見てるよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="145" vpos="41756" date="1613211186" date_usec="531615" mail="184" user_id="wCK5RIT7jMcwRcetGQB6JEm0Cq8" anonymity="1">コンビニのサラダは危険</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="146" vpos="42627" date="1613211187" date_usec="258129" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">きのことかも美味しそう</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="147" vpos="42386" date="1613211188" date_usec="235173" mail="184" user_id="AIELG6fzVcoKTnSHgvHU94JvTSY" anonymity="1">洗わなくていい　皿　いまクラファンしてるんだけど僕が社長でうちの会社で働きませんか</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="148" vpos="43100" date="1613211190" date_usec="28779" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/info 8 第1位にランクインしました</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="149" vpos="43300" date="1613211192" date_usec="846446" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion わこつ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="150" vpos="43234" date="1613211193" date_usec="708768" mail="184" user_id="UlQh5b6dNs2f_GsQ1I0M2_WNgxg" anonymity="1">あれすぐ変色しない？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="151" vpos="43404" date="1613211193" date_usec="887664" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion わこつ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="152" vpos="43427" date="1613211194" date_usec="114417" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion 見てるよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="153" vpos="44096" date="1613211200" date_usec="808581" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion おはよう</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="154" vpos="43975" date="1613211201" date_usec="564526" user_id="2980337" premium="1">コンビニは基本高いね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="155" vpos="44391" date="1613211203" date_usec="752390" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion おはよう</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="156" vpos="44568" date="1613211206" date_usec="670499" mail="184" user_id="kzuaxuFPwxKx9A0yOfl1X7fRhqw" premium="1" anonymity="1">皿洗いの歌をお願いします</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="157" vpos="44008" date="1613211209" date_usec="66812" user_id="36132812" premium="1">お邪魔します。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="158" vpos="45100" date="1613211210" date_usec="201272" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":10700,"message":"【広告貢献1位】マサイジャンプさんが1000ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="159" vpos="45291" date="1613211212" date_usec="753985" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion いいね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="160" vpos="44883" date="1613211213" date_usec="652274" mail="184" user_id="nl0da3E-Q_JZNic2EWsSHBVEGxM" anonymity="1">びちょびちょ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="161" vpos="46332" date="1613211223" date_usec="160669" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ん</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="162" vpos="45452" date="1613211223" date_usec="504514" mail="184" user_id="wCK5RIT7jMcwRcetGQB6JEm0Cq8" anonymity="1">コンビニサラダは栄養価ゼロ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="163" vpos="46338" date="1613211224" date_usec="357635" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">１日で葉は変わるね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="164" vpos="46249" date="1613211226" date_usec="80853" mail="184 white naka medium" user_id="-92wg2EPCW5iXKlt7JHhSw6V4FY" anonymity="1">食材はスーパーだね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="165" vpos="46551" date="1613211229" date_usec="867787" mail="184" user_id="AIELG6fzVcoKTnSHgvHU94JvTSY" anonymity="1">毎日出さないと　苦い味が参加します</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="166" vpos="48000" date="1613211239" date_usec="608456" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":11000,"message":"さん3333さんが300ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="167" vpos="48044" date="1613211246" date_usec="91270" mail="184" user_id="uzpgpAyQVn0kJ6fLFXTSdsWzdG4" anonymity="1">コールスローにモッツァレラ入れて腹一杯たべると満足すると</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="168" vpos="48700" date="1613211246" date_usec="690075" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":12800,"message":"【広告貢献1位】マサイジャンプさんが1800ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="169" vpos="48979" date="1613211251" date_usec="394669" user_id="15080559" premium="1">博学だ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="170" vpos="48758" date="1613211251" date_usec="942201" mail="184" user_id="AIELG6fzVcoKTnSHgvHU94JvTSY" anonymity="1">新鮮なうちに出さないと　健康にも悪いよね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="171" vpos="48586" date="1613211256" date_usec="84725" mail="184" user_id="xfzIk7GGWJl51oViU_ApUcX2pQw" anonymity="1">玉で買うのが一番持つ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="172" vpos="49450" date="1613211256" date_usec="273484" user_id="2980337" premium="1">マニアックだなｗ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="173" vpos="49837" date="1613211259" date_usec="763508" mail="184" user_id="UlQh5b6dNs2f_GsQ1I0M2_WNgxg" anonymity="1">こぼれたらどーすんだよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="174" vpos="47990" date="1613211259" date_usec="981228" mail="184" user_id="OH1gk8a9AL3b7OsthPAQnRvdE0g" premium="1" anonymity="1">いい感じの鼻づまり</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="175" vpos="50347" date="1613211264" date_usec="435875" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">玉こんにゃくも美味そう</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="176" vpos="50529" date="1613211270" date_usec="943816" mail="184" user_id="uzpgpAyQVn0kJ6fLFXTSdsWzdG4" anonymity="1">黒はんぺんうまい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="177" vpos="51990" date="1613211281" date_usec="285902" mail="184" user_id="UlQh5b6dNs2f_GsQ1I0M2_WNgxg" anonymity="1">フルグラとヨーグルトいいけどな</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="178" vpos="52300" date="1613211282" date_usec="31490" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":13700,"message":"【広告貢献1位】マサイジャンプさんが900ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="179" vpos="51941" date="1613211282" date_usec="871477" mail="184" user_id="hfjI8o5VrnzJO6Uk8GYQGg9mcCM" anonymity="1">なぬ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="180" vpos="52490" date="1613211286" date_usec="481995" user_id="15080559" premium="1">コーンフレークw</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="181" vpos="52427" date="1613211287" date_usec="274172" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">コーンフレーク弁当w</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="182" vpos="52868" date="1613211289" date_usec="663337" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">玉子も</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="183" vpos="52557" date="1613211291" date_usec="247104" mail="184" user_id="uzpgpAyQVn0kJ6fLFXTSdsWzdG4" anonymity="1">コンニャクの花はきもい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="184" vpos="54289" date="1613211304" date_usec="279107" mail="184" user_id="UlQh5b6dNs2f_GsQ1I0M2_WNgxg" anonymity="1">へぇ～</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="185" vpos="54197" date="1613211304" date_usec="955103" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">へー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="186" vpos="54506" date="1613211308" date_usec="175394" mail="white naka medium" user_id="27705886">藍上さんとレッツクッキング！！！！！とかしたいなぁ、、、はぃ。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="187" vpos="54261" date="1613211312" date_usec="806651" mail="184" user_id="xfzIk7GGWJl51oViU_ApUcX2pQw" anonymity="1">ヨーグルトもおいしい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="188" vpos="55073" date="1613211314" date_usec="160377" mail="184" user_id="hfjI8o5VrnzJO6Uk8GYQGg9mcCM" anonymity="1">屁ー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="189" vpos="55283" date="1613211314" date_usec="507128" mail="184" user_id="jwTafWJFDZTm0uXxPf9VCQMv4C4" premium="1" anonymity="1">なんでトイレの音きかせてるの </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="190" vpos="55700" date="1613211316" date_usec="325167" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":14300,"message":"【広告貢献1位】マサイジャンプさんが600ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="191" vpos="55764" date="1613211318" date_usec="611091" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">糖質オフフルグラはさらに豆乳入りだね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="192" vpos="56238" date="1613211323" date_usec="399139" mail="184" user_id="nYIZ2xHZELynJ1JLmAElBiEYUd0" anonymity="1">グラノーラは歯に付くからキラ～イ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="193" vpos="56558" date="1613211327" date_usec="243158" user_id="23459136">流れ悪くない？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="194" vpos="56221" date="1613211327" date_usec="873140" mail="184" user_id="uzpgpAyQVn0kJ6fLFXTSdsWzdG4" anonymity="1">またねー </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="195" vpos="56769" date="1613211329" date_usec="29189" mail="184" user_id="UlQh5b6dNs2f_GsQ1I0M2_WNgxg" anonymity="1">これは音姫ですｗｗ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="196" vpos="55597" date="1613211337" date_usec="406506" user_id="55003163">あいも濃厚で美味しそう</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="197" vpos="58005" date="1613211344" date_usec="260732" mail="184" user_id="RGJZzi3l9umNYPNaC5Kp9YOGWfg" premium="1" anonymity="1">豆乳を投入とか言わないでね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="198" vpos="59900" date="1613211358" date_usec="838856" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":14600,"message":"【広告貢献1位】マサイジャンプさんが300ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="199" vpos="60255" date="1613211365" date_usec="745336" mail="white naka medium" user_id="27705886">黒糖きな粉豆乳。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="200" vpos="60313" date="1613211371" date_usec="978736" user_id="36132812" premium="1">大爆笑</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="201" vpos="60304" date="1613211373" date_usec="907519" mail="184 white naka medium" user_id="Aqm5GWsbYYrA3qSF3X27N27CROQ" anonymity="1">シンクは綺麗なの？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="202" vpos="61718" date="1613211376" date_usec="196088" mail="docomo 184" user_id="dcivsyTziXzdKekRrFuhfnjAviw" anonymity="1" locale="jp">わこ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="203" vpos="61231" date="1613211376" date_usec="669585" mail="184" user_id="AIELG6fzVcoKTnSHgvHU94JvTSY" anonymity="1">頭注を　とう乳</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="204" vpos="61438" date="1613211378" date_usec="325217" mail="184" user_id="ye8ESYLXheXbNPtJCAAVvkBtd10" premium="1" anonymity="1">音拾ってきたんか</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="205" vpos="62153" date="1613211382" date_usec="698957" mail="184" user_id="Ujepm-HTg8zOLnftm1fAmYD10uM" anonymity="1">サバをさばいた</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="206" vpos="62305" date="1613211384" date_usec="696687" mail="184" user_id="jwTafWJFDZTm0uXxPf9VCQMv4C4" premium="1" anonymity="1">これ何してるの </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="207" vpos="62838" date="1613211388" date_usec="391859" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="208" vpos="62876" date="1613211388" date_usec="766590" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="209" vpos="62985" date="1613211391" date_usec="241739" mail="184" user_id="UlQh5b6dNs2f_GsQ1I0M2_WNgxg" anonymity="1">豆乳飲んだら屁がいっぱいでるの俺だけ？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="210" vpos="63379" date="1613211393" date_usec="794016" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★×3</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="211" vpos="64844" date="1613211409" date_usec="415402" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">少し時間が経った弁当の味って美味しいね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="212" vpos="65603" date="1613211416" date_usec="38205" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="213" vpos="66553" date="1613211425" date_usec="541991" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="214" vpos="66578" date="1613211425" date_usec="786002" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="215" vpos="66486" date="1613211425" date_usec="876198" mail="184" user_id="nYIZ2xHZELynJ1JLmAElBiEYUd0" anonymity="1">何センチ？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="216" vpos="66573" date="1613211426" date_usec="752627" user_id="15080559" premium="1">カリカリ音が気持ちいい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="217" vpos="66443" date="1613211428" date_usec="26495" mail="184 white naka medium" user_id="-92wg2EPCW5iXKlt7JHhSw6V4FY" anonymity="1">料理してたの</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="218" vpos="67317" date="1613211433" date_usec="180014" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="219" vpos="67319" date="1613211433" date_usec="200986" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="220" vpos="67347" date="1613211433" date_usec="476418" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい×3</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="221" vpos="67279" date="1613211437" date_usec="173533" mail="184" user_id="AIELG6fzVcoKTnSHgvHU94JvTSY" anonymity="1">どでかふらいぱんあこがれるよね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="222" vpos="67845" date="1613211438" date_usec="455377" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい×7</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="223" vpos="67684" date="1613211438" date_usec="607027" user_id="2980337" premium="1">あるね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="224" vpos="68247" date="1613211443" date_usec="447972" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">四角いのだね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="225" vpos="68129" date="1613211444" date_usec="282111" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">あーいいね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="226" vpos="68104" date="1613211445" date_usec="389537" mail="184" user_id="AIELG6fzVcoKTnSHgvHU94JvTSY" anonymity="1">だしまきいいよね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="227" vpos="68437" date="1613211445" date_usec="865499" mail="184" user_id="IGjfQMWr6W8-Gjij6m7EuEG8aoI" premium="1" anonymity="1">卵焼きのは買っとくとはかどる</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="228" vpos="68570" date="1613211446" date_usec="846997" mail="184" user_id="Ujepm-HTg8zOLnftm1fAmYD10uM" anonymity="1">そんなもん２日で飽きるぞ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="229" vpos="68900" date="1613211448" date_usec="882750" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":14800,"message":"べーやんさんが200ptニコニ広告しました「油汚れはＪＯＹ」","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="230" vpos="69110" date="1613211452" date_usec="478135" mail="184" user_id="UlQh5b6dNs2f_GsQ1I0M2_WNgxg" anonymity="1">持ってるわ・・凸凹ついてだし巻き卵みたいになるの</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="231" vpos="69890" date="1613211460" date_usec="656407" user_id="2980337" premium="1">コンロないの？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="232" vpos="69975" date="1613211463" date_usec="3842" mail="white naka medium" user_id="27705886">へとへとだ唯一ここが救いです。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="233" vpos="70600" date="1613211465" date_usec="468722" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":16000,"message":"ゆうれいさんが1200ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="234" vpos="67507" date="1613211468" date_usec="728571" user_id="55003163">直径4mです</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="235" vpos="69984" date="1613211470" date_usec="234697" mail="184" user_id="xfzIk7GGWJl51oViU_ApUcX2pQw" anonymity="1">卵焼きのは100均にもある</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="236" vpos="70749" date="1613211470" date_usec="486233" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">都市ガス来てるんだ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="237" vpos="70973" date="1613211471" date_usec="196755" mail="184" user_id="ayL6azBe3SDcmipnc1UvyvrTLSg" premium="1" anonymity="1">卵焼き作るには絶対いるしちっさいフライパンとしても使える</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="238" vpos="71404" date="1613211476" date_usec="217795" mail="184" user_id="uDAU4o7mZgMzE1hwsUicmTdqjtY" anonymity="1">まさかの料理配信</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="239" vpos="71306" date="1613211477" date_usec="299184" mail="184" user_id="RGJZzi3l9umNYPNaC5Kp9YOGWfg" premium="1" anonymity="1">俺、卵焼きの持ってるけどいいですよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="240" vpos="71773" date="1613211478" date_usec="710412" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">チャーハン美味そう</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="241" vpos="71751" date="1613211481" date_usec="860642" mail="184" user_id="AIELG6fzVcoKTnSHgvHU94JvTSY" anonymity="1">愛ちゃんも　小幡友美さんのような配信みたいね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="242" vpos="72085" date="1613211482" date_usec="240782" mail="184" user_id="UlQh5b6dNs2f_GsQ1I0M2_WNgxg" anonymity="1">火事がこわいわ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="243" vpos="72193" date="1613211485" date_usec="488320" mail="184" user_id="ye8ESYLXheXbNPtJCAAVvkBtd10" premium="1" anonymity="1">謎だな戦後の謎だわ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="244" vpos="72459" date="1613211486" date_usec="502011" user_id="15080559" premium="1">火力がね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="245" vpos="71915" date="1613211490" date_usec="555497" mail="184 small" user_id="gYb5wuzddRbbhauwy5mqpd2bWYY" premium="1" anonymity="1">がみちゃん やほー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="246" vpos="73258" date="1613211494" date_usec="342587" user_id="2980337" premium="1">家のコンロだと火力弱いからぱらぱらは難しいかも</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="247" vpos="73784" date="1613211498" date_usec="808015" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">野菜炒めいいね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="248" vpos="74800" date="1613211507" date_usec="356487" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":16200,"message":"ゆうれいさんが200ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="249" vpos="74818" date="1613211509" date_usec="641978" mail="184" user_id="IGjfQMWr6W8-Gjij6m7EuEG8aoI" premium="1" anonymity="1">卵焼き用のフライパンは一生もの</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="250" vpos="74607" date="1613211510" date_usec="419408" mail="184" user_id="AIELG6fzVcoKTnSHgvHU94JvTSY" anonymity="1">こげつくと　とまるからね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="251" vpos="75356" date="1613211515" date_usec="712781" mail="184" user_id="uDAU4o7mZgMzE1hwsUicmTdqjtY" anonymity="1">あんな高度な技できるの？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="252" vpos="75900" date="1613211518" date_usec="49326" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":16300,"message":"ゆうれいさんが100ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="253" vpos="75100" date="1613211521" date_usec="202638" mail="184" user_id="xfzIk7GGWJl51oViU_ApUcX2pQw" anonymity="1">燃やしてるねえ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="254" vpos="75953" date="1613211522" date_usec="544485" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">ああそっか</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="255" vpos="76356" date="1613211525" date_usec="32623" mail="184" user_id="IbnZ-3ufLPvRH3RXnWRN3CylaoU" anonymity="1">無理だね、ガスはいいよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="256" vpos="76261" date="1613211525" date_usec="815934" mail="white naka medium" user_id="27705886">卵焼きは極めるのが極めて難しく、もはや、究極と言える料理。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="257" vpos="76522" date="1613211527" date_usec="128464" user_id="15080559" premium="1">技できないんだ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="258" vpos="76900" date="1613211528" date_usec="787797" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":16500,"message":"ゆうれいさんが200ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="259" vpos="77493" date="1613211535" date_usec="912348" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">IHはそうなんだね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="260" vpos="77621" date="1613211537" date_usec="969816" user_id="2980337" premium="1">IHじゃなくても家庭のコンロじゃ結構難しいかも</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="261" vpos="78147" date="1613211545" date_usec="830335" mail="184" user_id="AIELG6fzVcoKTnSHgvHU94JvTSY" anonymity="1">サランラップでよごれとらないといけないからね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="262" vpos="79036" date="1613211551" date_usec="820567" mail="184" user_id="IGjfQMWr6W8-Gjij6m7EuEG8aoI" premium="1" anonymity="1">IHは上位の奴でも火力が足りない</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="263" vpos="79440" date="1613211557" date_usec="264742" user_id="4814023">どもこんばんＵＦＯ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="264" vpos="80015" date="1613211563" date_usec="841898" mail="184" user_id="RGJZzi3l9umNYPNaC5Kp9YOGWfg" premium="1" anonymity="1">ピー。そこの君なべがないですよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="265" vpos="80132" date="1613211564" date_usec="463134" mail="white naka medium" user_id="27705886">玉子たべよーぜー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="266" vpos="81000" date="1613211569" date_usec="985619" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":18000,"message":"ゆうれいさんが1500ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="267" vpos="82089" date="1613211582" date_usec="645095" user_id="2980337" premium="1">そうなんだｗ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="268" vpos="82524" date="1613211586" date_usec="724834" mail="184" user_id="IGjfQMWr6W8-Gjij6m7EuEG8aoI" premium="1" anonymity="1">電子レンジで作る温泉卵に最近は待ってる</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="269" vpos="82602" date="1613211589" date_usec="62597" mail="184 white naka medium" user_id="CjZN81lUK9_at1qPA3-r9d_jvdQ" premium="1" anonymity="1">でも夏場のクソ暑いときに料理するならＩＨのほうがいいよね？？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="270" vpos="82806" date="1613211591" date_usec="268198" mail="white naka medium" user_id="27705886">カロリーお化けの卵焼きにマヨネーズでさ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="271" vpos="83230" date="1613211593" date_usec="755525" mail="184" user_id="9OEeydzVy7vUQ-nOv8dYgsBJZL8" premium="1" anonymity="1">あいがみさんは職場の人に義理チョコをくばりますか？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="272" vpos="83736" date="1613211599" date_usec="113950" user_id="2980337" premium="1">良い面と悪い面両方あるってことだね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="273" vpos="84400" date="1613211603" date_usec="569504" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":19000,"message":"【広告貢献1位】マサイジャンプさんが1000ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="274" vpos="84474" date="1613211606" date_usec="206162" mail="184" user_id="ayL6azBe3SDcmipnc1UvyvrTLSg" premium="1" anonymity="1">家事怖いからIHがいいよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="275" vpos="84567" date="1613211608" date_usec="708858" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">ええ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="276" vpos="85202" date="1613211613" date_usec="483647" mail="184" user_id="IGjfQMWr6W8-Gjij6m7EuEG8aoI" premium="1" anonymity="1">IHは60A無いときつい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="277" vpos="85453" date="1613211617" date_usec="558740" user_id="4545774">ええ？？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="278" vpos="85732" date="1613211617" date_usec="925946" user_id="15080559" premium="1">危ないぞー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="279" vpos="85518" date="1613211618" date_usec="393995" user_id="4196655" premium="1">わこつ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="280" vpos="85984" date="1613211622" date_usec="960028" mail="white naka medium" user_id="27705886">瓦斯ですね。おれんちは。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="281" vpos="86214" date="1613211623" date_usec="612468" mail="184" user_id="IbnZ-3ufLPvRH3RXnWRN3CylaoU" anonymity="1">ガスはでも安全装置あるから大丈夫だよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="282" vpos="86924" date="1613211638" date_usec="930667" user_id="16484395" premium="1">IH自動で停止しないの？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="283" vpos="87847" date="1613211639" date_usec="935701" mail="184" user_id="IGjfQMWr6W8-Gjij6m7EuEG8aoI" premium="1" anonymity="1">ガスも空焚きとか止まりますよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="284" vpos="88392" date="1613211645" date_usec="683742" user_id="2980337" premium="1">お湯沸かしてて忘れてるとやばいことになったりするね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="285" vpos="88638" date="1613211649" date_usec="649063" mail="white naka medium" user_id="27705886">瓦斯じゃなきゃなんか、火加減がね。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="286" vpos="89100" date="1613211650" date_usec="172530" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":19600,"message":"【広告貢献1位】マサイジャンプさんが600ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="287" vpos="88627" date="1613211650" date_usec="619747" mail="184" user_id="AIELG6fzVcoKTnSHgvHU94JvTSY" anonymity="1">大丈夫俺が救い出す</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="288" vpos="89845" date="1613211659" date_usec="357333" user_id="15080559" premium="1">そうゆうシステムあるね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="289" vpos="89764" date="1613211660" date_usec="496541" user_id="4814023">ガスの方が良いよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="290" vpos="89991" date="1613211660" date_usec="882870" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">ガスの安全機能付きあるね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="291" vpos="89963" date="1613211662" date_usec="612034" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">空焚き防止あるね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="292" vpos="91924" date="1613211682" date_usec="843379" mail="184" user_id="AIELG6fzVcoKTnSHgvHU94JvTSY" anonymity="1">かっこいいやついて区さ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="293" vpos="92349" date="1613211686" date_usec="742858" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">焦げるよりいいよw</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="294" vpos="92814" date="1613211687" date_usec="158686" mail="docomo 184" user_id="Q3-VtgdnyspIl3wINKv4dneseAE" anonymity="1" locale="jp">お手伝いしてあげたい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="295" vpos="93000" date="1613211689" date_usec="248675" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":20000,"message":"【広告貢献1位】マサイジャンプさんが400ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="296" vpos="93075" date="1613211692" date_usec="230043" mail="184" user_id="IGjfQMWr6W8-Gjij6m7EuEG8aoI" premium="1" anonymity="1">東京ガスだと1時間以上使ってると電話が来る</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="297" vpos="92368" date="1613211693" date_usec="321365" user_id="16484395" premium="1">ガスだと停電しても使えるね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="298" vpos="93167" date="1613211694" date_usec="531226" user_id="4814023">火災報知機は？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="299" vpos="93371" date="1613211695" date_usec="439903" user_id="2980337" premium="1">寝落ちしちゃったら危ないしね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="300" vpos="94246" date="1613211703" date_usec="934816" mail="184" user_id="IbnZ-3ufLPvRH3RXnWRN3CylaoU" anonymity="1">圧力鍋もいいよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="301" vpos="94769" date="1613211710" date_usec="910079" mail="white naka medium" user_id="27705886">災害時は瓦斯やん結局は。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="302" vpos="96600" date="1613211725" date_usec="776300" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":20300,"message":"【広告貢献1位】マサイジャンプさんが300ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="303" vpos="96888" date="1613211730" date_usec="340363" mail="184" user_id="IGjfQMWr6W8-Gjij6m7EuEG8aoI" premium="1" anonymity="1">今報知器無いと捕まる</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="304" vpos="96894" date="1613211739" date_usec="148337" mail="184" user_id="xfzIk7GGWJl51oViU_ApUcX2pQw" anonymity="1">付けるの義務じゃなかったっけ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="305" vpos="99510" date="1613211757" date_usec="961687" user_id="4814023">そなのか</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="306" vpos="99925" date="1613211760" date_usec="955837" user_id="2980337" premium="1">バルサンかｗ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="307" vpos="100200" date="1613211761" date_usec="405169" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":20600,"message":"【広告貢献1位】マサイジャンプさんが300ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="308" vpos="100279" date="1613211764" date_usec="258996" mail="184" user_id="IGjfQMWr6W8-Gjij6m7EuEG8aoI" premium="1" anonymity="1">アースジェット使うと鳴るよね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="309" vpos="100600" date="1613211765" date_usec="733000" user_id="900000000" premium="3">/spi "「ダックダッシュ」がリクエストされました"</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="310" vpos="100755" date="1613211772" date_usec="30070" mail="184" user_id="aXs2zM3ltid-tNF0Jjl157s_VOg" anonymity="1">藍上さんってゴキブリは素手で潰す派じゃなかったっけ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="311" vpos="101316" date="1613211775" date_usec="59965" user_id="15080559" premium="1">そんな毒性があるんだ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="312" vpos="102656" date="1613211788" date_usec="312219" mail="184" user_id="2Enp-GkVGI7bkPkpsMF8kmyKw4M" premium="1" anonymity="1">こんばんは。自炊したのかい？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="313" vpos="103600" date="1613211795" date_usec="456557" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":20900,"message":"【広告貢献1位】マサイジャンプさんが300ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="314" vpos="103425" date="1613211795" date_usec="684949" mail="184" user_id="IGjfQMWr6W8-Gjij6m7EuEG8aoI" premium="1" anonymity="1">ゴキブリはつかめて外に逃がしてる</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="315" vpos="103583" date="1613211799" date_usec="467503" mail="184 white naka medium" user_id="8QdP_N-6sn5fa3Cc_vsubbuVzcA" anonymity="1">ミケさん</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="316" vpos="103902" date="1613211800" date_usec="4841" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">探知機の点検とかあると安心だね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="317" vpos="104387" date="1613211805" date_usec="47447" mail="184" user_id="Sy6jx5uXxtCeIvyRezo7NLSY0mo" anonymity="1">あいがみちゃんぶっちゅううううううううううううううううううううううううううううう</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="318" vpos="105164" date="1613211813" date_usec="121609" mail="184" user_id="IbnZ-3ufLPvRH3RXnWRN3CylaoU" anonymity="1">食後かい？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="319" vpos="105744" date="1613211819" date_usec="227827" mail="184" user_id="2Enp-GkVGI7bkPkpsMF8kmyKw4M" premium="1" anonymity="1">あーね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="320" vpos="106000" date="1613211819" date_usec="950406" user_id="900000000" premium="3">/spi "「スピード伐採」がリクエストされました"</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="321" vpos="106967" date="1613211829" date_usec="674763" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="322" vpos="106981" date="1613211829" date_usec="816809" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="323" vpos="107275" date="1613211832" date_usec="756767" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★×2</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="324" vpos="107785" date="1613211837" date_usec="861421" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="325" vpos="107972" date="1613211841" date_usec="191254" mail="184" user_id="IGjfQMWr6W8-Gjij6m7EuEG8aoI" premium="1" anonymity="1">最近包丁研ぎ屋さんて来なくなった</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="326" vpos="109419" date="1613211864" date_usec="388635" mail="184" user_id="xfzIk7GGWJl51oViU_ApUcX2pQw" anonymity="1">レトルトのおかゆなんてまずそう</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="327" vpos="110172" date="1613211864" date_usec="618401" user_id="4814023">最近ちゃんと皿洗いしてえらいね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="328" vpos="110567" date="1613211867" date_usec="189328" mail="184" user_id="Kp7n699voEnUvdlMqgS48s2W3nY" anonymity="1">わこつ、G対策はホウ酸を撒くのがいいよ、食べやすいように餌にしたやつではなく純正のホウ酸。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="329" vpos="113380" date="1613211896" date_usec="782975" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">いいなー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="330" vpos="114114" date="1613211902" date_usec="586706" mail="184" user_id="IbnZ-3ufLPvRH3RXnWRN3CylaoU" anonymity="1">すごいなＧでないとは</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="331" vpos="114039" date="1613211903" date_usec="962314" mail="184" user_id="ye8ESYLXheXbNPtJCAAVvkBtd10" premium="1" anonymity="1">バア出るの</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="332" vpos="115115" date="1613211915" date_usec="77694" mail="184" user_id="RGJZzi3l9umNYPNaC5Kp9YOGWfg" premium="1" anonymity="1">じゃあなんでスプレー巻いたんですか？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="333" vpos="116064" date="1613211923" date_usec="498647" user_id="4814023">アシダカグモでも飼ってるのかな</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="334" vpos="116457" date="1613211926" date_usec="519466" mail="184" user_id="7zGb8pQLANiqhLIRxrEvlDCVpCo" premium="1" anonymity="1">ニコモバ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="335" vpos="119105" date="1613211951" date_usec="874817" mail="184" user_id="7zGb8pQLANiqhLIRxrEvlDCVpCo" premium="1" anonymity="1">ナマコ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="336" vpos="119997" date="1613211960" date_usec="941765" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">お腹すかして弁当美味いね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="337" vpos="123686" date="1613211998" date_usec="582481" user_id="2980337" premium="1">健康が一番だね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="338" vpos="123701" date="1613211999" date_usec="863220" user_id="4814023">覚醒せよ。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="339" vpos="124631" date="1613212009" date_usec="645935" mail="184 white naka medium" user_id="il5PXEpsB76xORnP-Ws9oHAHONc" premium="1" anonymity="1">何日ぶりの皿洗い？！</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="340" vpos="125068" date="1613212012" date_usec="487621" mail="184" user_id="_MgAADKY5sB_cEH_GGxLrU2bTQ0" anonymity="1">声ｗｗｗｗｗｗｗｗｗｗｗｗｗｗ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="341" vpos="125461" date="1613212016" date_usec="401713" mail="184" user_id="2Enp-GkVGI7bkPkpsMF8kmyKw4M" premium="1" anonymity="1">肌に出てくるからな</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="342" vpos="126066" date="1613212020" date_usec="649153" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">作るの苦にならない簡単なものがいいと思うけど</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="343" vpos="127081" date="1613212033" date_usec="611100" mail="white naka medium" user_id="27705886">油分の質を考えると、ラードはナイ。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="344" vpos="127378" date="1613212033" date_usec="749311" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">ツナ食べてたね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="345" vpos="127709" date="1613212038" date_usec="990927" user_id="15080559" premium="1">声かれてる</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="346" vpos="128438" date="1613212045" date_usec="382549" user_id="56868045">それ本当に健康にいいんでしょうか？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="347" vpos="129192" date="1613212053" date_usec="722108" mail="184" user_id="2Enp-GkVGI7bkPkpsMF8kmyKw4M" premium="1" anonymity="1">ここ1週間で耳鼻科行く人が増えたよ。花粉症もあるらしい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="348" vpos="129282" date="1613212055" date_usec="869813" mail="184 white naka medium" user_id="il5PXEpsB76xORnP-Ws9oHAHONc" premium="1" anonymity="1">前回の方法以来の皿洗い？！</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="349" vpos="129620" date="1613212056" date_usec="984270" mail="184" user_id="Ujepm-HTg8zOLnftm1fAmYD10uM" anonymity="1">成長したな。おじさん嬉しいよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="350" vpos="129213" date="1613212063" date_usec="10067" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">いやしの声が(´・ω・`)</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="351" vpos="130423" date="1613212067" date_usec="86394" user_id="4814023">痰がでるのは免疫機能が働いているあかし</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="352" vpos="130788" date="1613212072" date_usec="581993" mail="184" user_id="HHIjU0tdEoqTVlnwEp6qUkSsUmU" anonymity="1">素材の味を楽しむタイプだったのに</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="353" vpos="131175" date="1613212074" date_usec="660366" mail="white naka medium" user_id="27705886">ちくわ。藍上さんのちくわ話し忘れてねぇすよ。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="354" vpos="133234" date="1613212094" date_usec="141135" mail="184" user_id="2Enp-GkVGI7bkPkpsMF8kmyKw4M" premium="1" anonymity="1">牛丼屋の向かい合わせのカウンター席余裕な人？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="355" vpos="133900" date="1613212098" date_usec="641021" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":22400,"message":"【広告貢献5位】パォ～ン藍上さんが1500ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="356" vpos="133785" date="1613212108" date_usec="659802" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">糖質カッツはよくないお</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="357" vpos="134841" date="1613212117" date_usec="176906" mail="184" user_id="6drDaq_ULnSkTn2tvddzlsNeDig" premium="1" anonymity="1">こんばんUFO</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="358" vpos="136381" date="1613212126" date_usec="711711" mail="white naka medium" user_id="27705886">糖質制限は、加減せんとな。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="359" vpos="136520" date="1613212126" date_usec="875817" user_id="2980337" premium="1">バランスよく食べるのが良いかもね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="360" vpos="137400" date="1613212133" date_usec="565058" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":23400,"message":"【広告貢献5位】パォ～ン藍上さんが1000ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="361" vpos="138532" date="1613212148" date_usec="181114" user_id="4814023">うーろんなんさい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="362" vpos="139580" date="1613212155" date_usec="811023" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">野菜美味いね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="363" vpos="141389" date="1613212173" date_usec="864004" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">うーろんご飯もらえると思ってるのかな</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="364" vpos="142400" date="1613212183" date_usec="134569" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":25500,"message":"【広告貢献2位】パォ～ン藍上さんが2100ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="365" vpos="142952" date="1613212189" date_usec="485320" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">ぷいぷいもるかー最近見かける</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="366" vpos="142941" date="1613212192" date_usec="619157" user_id="4545774">鳴いてる</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="367" vpos="143057" date="1613212193" date_usec="523857" mail="white naka medium" user_id="27705886">だいたい、野菜だけで生きようなんて、パンイチでエベレスト登山やろ、普通止めるやろ大人なら。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="368" vpos="143637" date="1613212201" date_usec="456897" user_id="9032439">どんだけ洗ってるの</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="369" vpos="143835" date="1613212201" date_usec="597000" mail="184 white naka medium" user_id="yI73OJW7k0KXba12YNWK-6AwsHE" anonymity="1">いつ頃食べるの？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="370" vpos="145900" date="1613212218" date_usec="539636" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":27300,"message":"【広告貢献2位】パォ～ン藍上さんが1800ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="371" vpos="147185" date="1613212235" date_usec="425350" user_id="4196655" premium="1">ないてるねー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="372" vpos="147750" date="1613212240" date_usec="312179" mail="white naka medium" user_id="27705886">烏龍。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="373" vpos="148131" date="1613212241" date_usec="286423" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">ぷいぷい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="374" vpos="147422" date="1613212245" date_usec="20874" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">ちもしーくれー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="375" vpos="147890" date="1613212250" date_usec="500404" mail="184 white naka medium" user_id="tCEQAe-L4mr4CTidEmtcCdRjgNA" premium="1" anonymity="1">キュイーン</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="376" vpos="149386" date="1613212254" date_usec="933192" user_id="21774797">警報機みたいな音してるね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="377" vpos="149490" date="1613212256" date_usec="392614" user_id="15080559" premium="1">答えてあげないとーw</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="378" vpos="149572" date="1613212258" date_usec="640205" mail="white naka medium" user_id="27705886">癒しや。ほんま癒しや。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="379" vpos="150400" date="1613212263" date_usec="76995" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/info 3 30分延長しました</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="380" vpos="150400" date="1613212263" date_usec="378116" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":28200,"message":"【広告貢献2位】パォ～ン藍上さんが900ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="381" vpos="150433" date="1613212265" date_usec="530470" mail="184" user_id="sq91lMdfb37_vJiY0HnBywxmFRI" premium="1" anonymity="1">宇宙人来てるの</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="382" vpos="150222" date="1613212273" date_usec="13113" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">物凄い甘えてる声に聞こえる</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="383" vpos="150479" date="1613212273" date_usec="233963" mail="184" user_id="-QqgMBcc0I-A2fW04DLjO1Xgm-c" anonymity="1">ウーロン元気だね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="384" vpos="151611" date="1613212281" date_usec="199117" user_id="9032439">ｷｭｨｰﾝ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="385" vpos="152075" date="1613212281" date_usec="456612" mail="184" user_id="Ujepm-HTg8zOLnftm1fAmYD10uM" anonymity="1">おならしてもごまかせるね！</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="386" vpos="152365" date="1613212286" date_usec="574989" mail="white naka medium" user_id="27705886">クソ高いヘッドホン買ってよかったわ。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="387" vpos="152835" date="1613212288" date_usec="357952" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="388" vpos="152856" date="1613212288" date_usec="565548" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="389" vpos="154026" date="1613212300" date_usec="267069" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★×3</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="390" vpos="154700" date="1613212306" date_usec="59466" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":29700,"message":"【広告貢献2位】パォ～ン藍上さんが1500ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="391" vpos="156584" date="1613212325" date_usec="817203" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">ピーマン、葉っぱもの好きなのかな</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="392" vpos="158881" date="1613212352" date_usec="504030" user_id="4196655" premium="1">うーろん激しいなw</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="393" vpos="159700" date="1613212356" date_usec="514119" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":30100,"message":"【広告貢献2位】パォ～ン藍上さんが400ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="394" vpos="161580" date="1613212378" date_usec="755114" mail="white naka medium" user_id="27705886">七味は使いません。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="395" vpos="162748" date="1613212387" date_usec="483622" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="396" vpos="163100" date="1613212390" date_usec="62974" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":30700,"message":"【広告貢献2位】パォ～ン藍上さんが600ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="397" vpos="162874" date="1613212391" date_usec="456235" mail="184 white naka medium" user_id="8oERqF4KOOy_gbcmzy9_99j79Hg" premium="1" anonymity="1">ねむいよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="398" vpos="164679" date="1613212406" date_usec="800995" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion 草</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="399" vpos="165043" date="1613212410" date_usec="443135" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion うがい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="400" vpos="165814" date="1613212418" date_usec="147733" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion なるほど</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="401" vpos="166060" date="1613212421" date_usec="449981" user_id="15080559" premium="1">電子レンジの中も以外と汚れてる</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="402" vpos="167200" date="1613212431" date_usec="695600" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":31100,"message":"【広告貢献2位】パォ～ン藍上さんが400ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="403" vpos="168319" date="1613212443" date_usec="203051" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion がんばれ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="404" vpos="168784" date="1613212448" date_usec="821252" user_id="15080559" premium="1">爆発した？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="405" vpos="169183" date="1613212452" date_usec="902259" user_id="21774797">ラップかけてチンがいいね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="406" vpos="170381" date="1613212465" date_usec="507740" user_id="2980337" premium="1">IHって魚が焼けるやつ付いてないの？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="407" vpos="171200" date="1613212471" date_usec="4922" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":31500,"message":"【広告貢献1位】パォ～ン藍上さんが400ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="408" vpos="171387" date="1613212473" date_usec="850172" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">弁当に魚を入れるとしたら鮭かね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="409" vpos="171601" date="1613212478" date_usec="881268" mail="white naka medium" user_id="27705886">藍上さんに、蟹グラタンを作るから食べてもらいたい。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="410" vpos="172072" date="1613212483" date_usec="832896" mail="184" user_id="yv5YEaLS_odWjeIhpKOFCZ_tdOk" anonymity="1">明日バレンタインための準備してるの？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="411" vpos="174900" date="1613212508" date_usec="985455" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":31800,"message":"【広告貢献1位】パォ～ン藍上さんが300ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="412" vpos="173821" date="1613212509" date_usec="25921" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">ｺﾞｺﾞｺﾞｺﾞｺﾞｺﾞ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="413" vpos="176190" date="1613212523" date_usec="406383" user_id="15080559" premium="1">たらこ！w</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="414" vpos="176225" date="1613212523" date_usec="899897" user_id="2980337" premium="1">卵系はレンジ危ないね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="415" vpos="176181" date="1613212524" date_usec="597189" mail="white naka medium" user_id="27705886">バレンタインなのか、明日、まじか、コンビニでチョコもらってくるわ。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="416" vpos="176994" date="1613212540" date_usec="749804" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">たらこちん</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="417" vpos="178106" date="1613212541" date_usec="30887" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">たらこ買ってきた言ってたね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="418" vpos="177820" date="1613212541" date_usec="773051" mail="184" user_id="ye8ESYLXheXbNPtJCAAVvkBtd10" premium="1" anonymity="1">ｱﾙｱﾙ謎だわ戦後の謎だわKP</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="419" vpos="178800" date="1613212547" date_usec="561698" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":31900,"message":"【広告貢献1位】パォ～ン藍上さんが100ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="420" vpos="180114" date="1613212561" date_usec="152543" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion  </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="421" vpos="180287" date="1613212563" date_usec="600723" mail="184" user_id="Ujepm-HTg8zOLnftm1fAmYD10uM" anonymity="1">たらこチンしたことないわ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="422" vpos="180960" date="1613212569" date_usec="586196" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">サメは美味しかったのかな、買ってみようかな</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="423" vpos="181040" date="1613212574" date_usec="118145" mail="white naka medium" user_id="27705886">たらこはたべません。いくらもウニもたべません。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="424" vpos="181445" date="1613212578" date_usec="175421" mail="184" user_id="RGJZzi3l9umNYPNaC5Kp9YOGWfg" premium="1" anonymity="1">次の曲、たらこ爆発大将で決まりですね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="425" vpos="183153" date="1613212595" date_usec="96859" mail="184" user_id="ye8ESYLXheXbNPtJCAAVvkBtd10" premium="1" anonymity="1">ﾉｯﾄﾗﾚﾄﾙﾔﾝｹワシノスマホ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="426" vpos="183527" date="1613212595" date_usec="277851" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="427" vpos="183540" date="1613212595" date_usec="412762" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="428" vpos="184343" date="1613212603" date_usec="437837" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★×3</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="429" vpos="184573" date="1613212608" date_usec="705562" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">替え歌w</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="430" vpos="185736" date="1613212617" date_usec="366880" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion いいね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="431" vpos="184767" date="1613212618" date_usec="478821" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">ごま油踏むとはw</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="432" vpos="185998" date="1613212623" date_usec="756384" mail="white naka medium" user_id="27705886">カニ、エビの摂取量も気にしてます。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="433" vpos="187604" date="1613212636" date_usec="54485" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion  </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="434" vpos="188188" date="1613212641" date_usec="886359" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion やったぜ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="435" vpos="188507" date="1613212645" date_usec="41016" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">レンジですぐ爆発しやすい食物とかあるね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="436" vpos="190442" date="1613212664" date_usec="429069" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion 神</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="437" vpos="192897" date="1613212689" date_usec="744233" user_id="15080559" premium="1">だいたいで次に繋げよう</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="438" vpos="192976" date="1613212691" date_usec="412559" user_id="2980337" premium="1">一気に全部やろうとすると疲れちゃうね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="439" vpos="193800" date="1613212697" date_usec="496406" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":32700,"message":"【広告貢献1位】パォ～ン藍上さんが800ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="440" vpos="194263" date="1613212704" date_usec="439750" mail="184" user_id="2Enp-GkVGI7bkPkpsMF8kmyKw4M" premium="1" anonymity="1">そうね。定期的にやる気になる程度で</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="441" vpos="194698" date="1613212707" date_usec="710018" mail="184" user_id="Ujepm-HTg8zOLnftm1fAmYD10uM" anonymity="1">これは男遊びに来ますね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="442" vpos="195298" date="1613212723" date_usec="798995" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">ついでにトイレ掃除もしちゃいます？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="443" vpos="196529" date="1613212728" date_usec="997219" user_id="4196655" premium="1">オッケー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="444" vpos="197500" date="1613212734" date_usec="334087" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":33300,"message":"【広告貢献1位】パォ～ン藍上さんが600ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="445" vpos="199639" date="1613212756" date_usec="354065" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">いか、ウインナー、卵類はたまにレンジで爆発させてしまう</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="446" vpos="201328" date="1613212776" date_usec="583183" mail="184" user_id="ye8ESYLXheXbNPtJCAAVvkBtd10" premium="1" anonymity="1">昨日ニコ生がサイバー攻撃されてる言うてたし、サイバーﾃﾛｳｻﾞｲﾅ｡</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="447" vpos="203500" date="1613212794" date_usec="589868" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/nicoad {"totalAdPoint":33900,"message":"【広告貢献1位】パォ～ン藍上さんが600ptニコニ広告しました","version":"1"}</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="448" vpos="203651" date="1613212801" date_usec="51988" mail="184" user_id="aXs2zM3ltid-tNF0Jjl157s_VOg" anonymity="1">今日6時間配信ですか</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="449" vpos="204900" date="1613212810" date_usec="684093" user_id="2980337" premium="1">定期的になんかあるね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="450" vpos="205526" date="1613212816" date_usec="4194" mail="184" user_id="Ujepm-HTg8zOLnftm1fAmYD10uM" anonymity="1">もっとやれ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="451" vpos="206841" date="1613212831" date_usec="728003" mail="184" user_id="ye8ESYLXheXbNPtJCAAVvkBtd10" premium="1" anonymity="1">ﾄﾞｻｸｻﾃﾛうざすぎ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="452" vpos="212233" date="1613212882" date_usec="339340" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="453" vpos="212260" date="1613212882" date_usec="605670" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="454" vpos="212798" date="1613212887" date_usec="988291" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★×3</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="455" vpos="214005" date="1613212901" date_usec="683659" user_id="2980337" premium="1">30分洗ってたってことかｗ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="456" vpos="216411" date="1613212927" date_usec="30396" mail="184 white naka medium" user_id="jhz-NwSqCWEU0o9VIPbBHRjPEwQ" anonymity="1">トイレも掃除しなさい！</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="457" vpos="218365" date="1613212943" date_usec="658272" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion わこつ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="458" vpos="219743" date="1613212957" date_usec="443983" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion  </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="459" vpos="221660" date="1613212977" date_usec="306018" mail="184" user_id="Ujepm-HTg8zOLnftm1fAmYD10uM" anonymity="1">よし！遊ぼう！</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="460" vpos="221060" date="1613212981" date_usec="472978" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">掃除したしこの流れでシャワー配信を</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="461" vpos="222950" date="1613212990" date_usec="251790" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">夕飯時の雰囲気いいね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="462" vpos="222867" date="1613212991" date_usec="763648" user_id="15080559" premium="1">ご苦労様でしたー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="463" vpos="223132" date="1613212992" date_usec="939592" user_id="2980337" premium="1">すごい量あるんだｗ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="464" vpos="223808" date="1613213001" date_usec="9089" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">おつかれ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="465" vpos="225316" date="1613213014" date_usec="789234" user_id="2980337" premium="1">ｗ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="466" vpos="225504" date="1613213015" date_usec="49342" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion なるほど</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="467" vpos="226552" date="1613213025" date_usec="526533" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion OK</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="468" vpos="226530" date="1613213026" date_usec="755326" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">洗い物変わってあげたい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="469" vpos="227050" date="1613213032" date_usec="125384" user_id="2980337" premium="1">結構すきだなー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="470" vpos="227435" date="1613213035" date_usec="935093" user_id="2363303" premium="1">確かに</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="471" vpos="227864" date="1613213038" date_usec="651584" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion はい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="472" vpos="227607" date="1613213038" date_usec="821710" user_id="4196655" premium="1">洗い物おつ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="473" vpos="227771" date="1613213039" date_usec="334872" user_id="2980337" premium="1">食べたらすぐ洗っちゃう</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="474" vpos="228527" date="1613213047" date_usec="148174" user_id="21774797">っ食洗機</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="475" vpos="229410" date="1613213054" date_usec="983874" mail="184" user_id="Ujepm-HTg8zOLnftm1fAmYD10uM" anonymity="1">油ものの洗い物はしんどい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="476" vpos="228498" date="1613213055" date_usec="781088" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">紙の皿にするとかは？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="477" vpos="229679" date="1613213056" date_usec="793798" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ヘ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="478" vpos="230482" date="1613213066" date_usec="456978" user_id="2980337" premium="1">すぐ洗わない場合は漬け置きしておくといいかもね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="479" vpos="231780" date="1613213080" date_usec="888114" user_id="15080559" premium="1">水につけとけばだいぶ違うよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="480" vpos="232283" date="1613213082" date_usec="836292" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion いいね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="481" vpos="233277" date="1613213092" date_usec="777461" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion いいね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="482" vpos="237771" date="1613213138" date_usec="495669" mail="184" user_id="2Enp-GkVGI7bkPkpsMF8kmyKw4M" premium="1" anonymity="1">鍋洗うの嫌いー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="483" vpos="238306" date="1613213144" date_usec="520638" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">納豆をフライパンで焼くと美味いかね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="484" vpos="241038" date="1613213171" date_usec="839266" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">豆腐ステーキとか美味そうな気がする</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="485" vpos="241862" date="1613213180" date_usec="91375" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">洗濯機の音だ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="486" vpos="242337" date="1613213185" date_usec="6394" user_id="2980337" premium="1">自動！</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="487" vpos="243000" date="1613213190" date_usec="7584" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion 天才</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="488" vpos="245420" date="1613213215" date_usec="664304" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">おお</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="489" vpos="244978" date="1613213219" date_usec="181961" mail="184" user_id="yIPGamJhuL_lQDdf3j3CyvlOXHU" anonymity="1">あいうえさん、最近顔出し配信してないように思うけど顔出ししないのかな </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="490" vpos="246176" date="1613213223" date_usec="307028" mail="184" user_id="9X-Ae2M3Wuk2SxEXpsHR5Jg-Qcw" anonymity="1">うまそー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="492" vpos="245980" date="1613213230" date_usec="425489" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">焼き豆腐ですね？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="493" vpos="247512" date="1613213236" date_usec="686494" mail="184" user_id="9X-Ae2M3Wuk2SxEXpsHR5Jg-Qcw" anonymity="1">豆腐の素焼き</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="494" vpos="247925" date="1613213240" date_usec="718849" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">美味そう</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="495" vpos="246395" date="1613213242" date_usec="708261" mail="184" user_id="OH1gk8a9AL3b7OsthPAQnRvdE0g" premium="1" anonymity="1">豆腐の水分を取るのに命かけている人</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="496" vpos="248332" date="1613213244" date_usec="555984" mail="184" user_id="Ujepm-HTg8zOLnftm1fAmYD10uM" anonymity="1">豆腐に火を通したもの</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="497" vpos="248519" date="1613213245" date_usec="196299" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="498" vpos="248557" date="1613213245" date_usec="577197" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="499" vpos="248330" date="1613213246" date_usec="383151" user_id="15080559" premium="1">焼き豆腐？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="500" vpos="249289" date="1613213252" date_usec="903577" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★×3</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="501" vpos="249020" date="1613213253" date_usec="158871" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">藍上プロ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="502" vpos="249150" date="1613213253" date_usec="383496" user_id="21774797">イミテーションミートですね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="503" vpos="249910" date="1613213260" date_usec="162979" mail="184" user_id="GEVj2qUL8OFpJTFY8VQKhESukZo" anonymity="1">豆腐ダイエット</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="504" vpos="250107" date="1613213262" date_usec="632778" mail="184" user_id="9X-Ae2M3Wuk2SxEXpsHR5Jg-Qcw" anonymity="1">絹ごし？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="505" vpos="250199" date="1613213263" date_usec="463708" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">焼き豆腐美味そう</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="506" vpos="250767" date="1613213270" date_usec="635663" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">厚揚げも焼くと美味いぞ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="507" vpos="251319" date="1613213276" date_usec="920010" mail="184" user_id="RGJZzi3l9umNYPNaC5Kp9YOGWfg" premium="1" anonymity="1">焼き豆腐ってあるけどな</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="508" vpos="252221" date="1613213283" date_usec="613330" user_id="15080559" premium="1">安いし畑のステーキだし</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="509" vpos="252617" date="1613213287" date_usec="801525" user_id="2980337" premium="1">厚揚げは良く焼いて生姜醤油で食べてる～</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="510" vpos="251965" date="1613213289" date_usec="146628" mail="184" user_id="yIPGamJhuL_lQDdf3j3CyvlOXHU" anonymity="1">藍上であいがみなんだね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="511" vpos="252470" date="1613213295" date_usec="412269" mail="184" user_id="O8fD0hR8Ae0B0O3G6_VTgGeN9Pg" anonymity="1">今は何食ってんの？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="512" vpos="253692" date="1613213301" date_usec="429852" mail="184" user_id="aXs2zM3ltid-tNF0Jjl157s_VOg" anonymity="1">豆腐は脱水させてもおいしい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="513" vpos="254900" date="1613213314" date_usec="852077" mail="184" user_id="Z-c8zxFuMzGZ5cgoKVqkPtBKmos" anonymity="1">血液検査尿検査したらなんかの数値おかしそうだな</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="514" vpos="255694" date="1613213320" date_usec="859561" mail="184" user_id="RGJZzi3l9umNYPNaC5Kp9YOGWfg" premium="1" anonymity="1">木綿でしょ？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="515" vpos="255294" date="1613213323" date_usec="569183" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">焼き豆腐とかすき焼きの中でしか食べないものだ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="516" vpos="256247" date="1613213326" date_usec="966201" mail="184" user_id="aXs2zM3ltid-tNF0Jjl157s_VOg" anonymity="1">便秘なるで</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="517" vpos="257069" date="1613213332" date_usec="866374" mail="184" user_id="qYb8tRpM4TktBwPB5r1grRCF4JE" anonymity="1">ブロッコリー茹でて食べてよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="518" vpos="257628" date="1613213336" date_usec="291965" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion わこつ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="519" vpos="257474" date="1613213336" date_usec="301823" mail="184" user_id="9X-Ae2M3Wuk2SxEXpsHR5Jg-Qcw" anonymity="1">ペヤング食いたくなってきた</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="520" vpos="259184" date="1613213353" date_usec="702540" mail="184" user_id="mgTB2IYXw0Ej4yx5Tp6GESqmxHk" anonymity="1">今日はラジオなのね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="521" vpos="259251" date="1613213363" date_usec="820146" mail="184 white naka medium" user_id="W9BkKmeEbr-xLgTuhfgl_JDGjUo" anonymity="1">藍上ちゃんわこつノ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="522" vpos="260293" date="1613213364" date_usec="584914" user_id="2980337" premium="1">そうなんだ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="523" vpos="259484" date="1613213365" date_usec="470293" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">男子大学生みたいな食生活だなw</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="524" vpos="261695" date="1613213378" date_usec="307760" mail="184" user_id="9X-Ae2M3Wuk2SxEXpsHR5Jg-Qcw" anonymity="1">ゆるゆる</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="525" vpos="260965" date="1613213380" date_usec="963656" mail="184 white naka medium" user_id="W9BkKmeEbr-xLgTuhfgl_JDGjUo" anonymity="1">出まくりなんだね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="526" vpos="261094" date="1613213381" date_usec="611765" mail="184" user_id="O8fD0hR8Ae0B0O3G6_VTgGeN9Pg" anonymity="1">藍上は誰に裸の写メ送ってんの？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="527" vpos="261740" date="1613213386" date_usec="426917" mail="184" user_id="yIPGamJhuL_lQDdf3j3CyvlOXHU" anonymity="1">マルちゃんごつ盛りと見た</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="528" vpos="261645" date="1613213387" date_usec="91173" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">いいな</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="529" vpos="262554" date="1613213387" date_usec="689220" mail="184" user_id="qYb8tRpM4TktBwPB5r1grRCF4JE" anonymity="1">うんｋが藍上を嫌って早く出たがるんだろ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="530" vpos="261888" date="1613213397" date_usec="682796" mail="184" user_id="OH1gk8a9AL3b7OsthPAQnRvdE0g" premium="1" anonymity="1">我慢しちゃうと固くなってでなくなる</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="531" vpos="264123" date="1613213402" date_usec="853923" user_id="2980337" premium="1">カップ焼きそばって何が好きですか？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="532" vpos="264211" date="1613213405" date_usec="33144" mail="184 white naka medium guest" user_id="kLweUkxfrHpzvEXNKacPQhSnYVM" anonymity="1">飯食ってるんですけど  </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="533" vpos="264658" date="1613213406" date_usec="583944" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="534" vpos="264684" date="1613213406" date_usec="847004" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="535" vpos="265270" date="1613213412" date_usec="705338" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ★×3</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="536" vpos="264448" date="1613213415" date_usec="151109" mail="184" user_id="O8fD0hR8Ae0B0O3G6_VTgGeN9Pg" anonymity="1">クチビル  また整形したんか</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="537" vpos="266196" date="1613213423" date_usec="313557" mail="184" user_id="9X-Ae2M3Wuk2SxEXpsHR5Jg-Qcw" anonymity="1">たまに凄い固いのが栓の役割しててソイツが出た途端液状化する時がある</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="538" vpos="266274" date="1613213426" date_usec="454917" mail="white naka medium" user_id="27705886">コロナになってからといもの、痩せ続けてる、これ、ストレスでしかない。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="539" vpos="267028" date="1613213431" date_usec="869923" user_id="2980337" premium="1">へぇ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="540" vpos="267302" date="1613213436" date_usec="117729" mail="184 white naka medium" user_id="CjZN81lUK9_at1qPA3-r9d_jvdQ" premium="1" anonymity="1">便通をよくする錠剤とかはのんでるの？ビオフェルミン？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="541" vpos="268077" date="1613213442" date_usec="675398" user_id="15080559" premium="1">カップ焼きそばここ数年食べてない</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="542" vpos="267263" date="1613213443" date_usec="277761" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">俺の塩ハマってたな</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="543" vpos="268297" date="1613213454" date_usec="260867" mail="184 white naka medium" user_id="W9BkKmeEbr-xLgTuhfgl_JDGjUo" anonymity="1">塩対応焼きそば</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="544" vpos="270384" date="1613213465" date_usec="447033" user_id="2980337" premium="1">塩だと最近コンビニでみかさ？って店の塩焼きそばが売ってたな</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="545" vpos="271349" date="1613213475" date_usec="484728" mail="184" user_id="mgTB2IYXw0Ej4yx5Tp6GESqmxHk" anonymity="1">確かにうまい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="546" vpos="271708" date="1613213477" date_usec="590578" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">塩やきそばとか塩ラーメンたまに食べたくなるね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="547" vpos="272253" date="1613213484" date_usec="41725" user_id="25692724">　　　　　　　　　　　　　　　　　　　　　こんばんわ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="548" vpos="272518" date="1613213486" date_usec="385597" mail="184" user_id="wF43JawO9dNbOh82sL2vMF9ceks" anonymity="1">皿洗ってるの</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="549" vpos="272367" date="1613213490" date_usec="28316" mail="184" user_id="Z-c8zxFuMzGZ5cgoKVqkPtBKmos" anonymity="1">一平ちゃんの塩は？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="550" vpos="272839" date="1613213499" date_usec="35411" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">カップ焼きそばに納豆入れる？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="551" vpos="274383" date="1613213505" date_usec="439461" user_id="2980337" premium="1">いっぺいちゃんに塩あるんだｗ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="552" vpos="276186" date="1613213521" date_usec="867810" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion  </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="553" vpos="276196" date="1613213521" date_usec="963469" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion  </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="554" vpos="276149" date="1613213525" date_usec="243801" mail="white naka medium" user_id="27705886">コロナ禍で、食事もままならない人たちに、早く支援！政府のことが理解できるひとおる？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="555" vpos="276785" date="1613213527" date_usec="863028" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion  ×3</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="556" vpos="277139" date="1613213531" date_usec="863078" mail="184" user_id="1YyevSN0cVBQon54of6PBtOI0OE" premium="1" anonymity="1">台湾風とかタイ風焼きそばとか見かける</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="557" vpos="278258" date="1613213544" date_usec="624292" mail="184" user_id="Iyiro4DEGIKRQzRlPiB4kEK9PBY" anonymity="1">いたのかｗ無音長すぎ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="558" vpos="278543" date="1613213549" date_usec="143949" mail="184" user_id="RGJZzi3l9umNYPNaC5Kp9YOGWfg" premium="1" anonymity="1">プリングスサワークリーム味の焼きそば食べました</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="559" vpos="277300" date="1613213551" date_usec="740719" user_id="13037037">  </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="560" vpos="279764" date="1613213558" date_usec="920394" mail="184" user_id="Ujepm-HTg8zOLnftm1fAmYD10uM" anonymity="1">汁なし担々麺のカップ麺うまい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="561" vpos="280264" date="1613213564" date_usec="259658" user_id="2980337" premium="1">はやｗ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="562" vpos="280355" date="1613213564" date_usec="897513" mail="184" user_id="Ujepm-HTg8zOLnftm1fAmYD10uM" anonymity="1">ええええええええええ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="563" vpos="281048" date="1613213571" date_usec="931138" mail="184" user_id="IbnZ-3ufLPvRH3RXnWRN3CylaoU" anonymity="1">あいよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="564" vpos="281113" date="1613213572" date_usec="745515" user_id="2363303" premium="1">おつUFO  </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="565" vpos="281010" date="1613213572" date_usec="865234" mail="white naka medium" user_id="27705886">おつんつん。</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="566" vpos="280984" date="1613213575" date_usec="734323" mail="184" user_id="Z-c8zxFuMzGZ5cgoKVqkPtBKmos" anonymity="1">  </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="567" vpos="282100" date="1613213580" date_usec="683884" user_id="900000000" premium="3">/gift chococake 2980337 "稀人" 1800 "" "本命チョコ（音付き）" 1</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="568" vpos="281172" date="1613213582" date_usec="972382" mail="184 white naka medium" user_id="W9BkKmeEbr-xLgTuhfgl_JDGjUo" anonymity="1">何でやねん</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="569" vpos="282243" date="1613213584" date_usec="56217" user_id="2363303" premium="1">あ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="570" vpos="281348" date="1613213584" date_usec="144728" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">晩飯おわたの？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="571" vpos="282282" date="1613213584" date_usec="794962" mail="184" user_id="mgTB2IYXw0Ej4yx5Tp6GESqmxHk" anonymity="1">ほわ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="572" vpos="282442" date="1613213586" date_usec="92296" user_id="2980337" premium="1">おつですー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="573" vpos="281952" date="1613213588" date_usec="767066" mail="184" user_id="yIPGamJhuL_lQDdf3j3CyvlOXHU" anonymity="1">ニコ生公式のPerfumeのチョコレート・ディスコだけを24時間流すの草</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="574" vpos="282803" date="1613213590" date_usec="765070" mail="white naka medium" user_id="27705886">まぁたねー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="575" vpos="283014" date="1613213591" date_usec="350814" mail="184" user_id="wF43JawO9dNbOh82sL2vMF9ceks" anonymity="1">皿洗いの会</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="576" vpos="283178" date="1613213593" date_usec="768889" mail="184" user_id="mgTB2IYXw0Ej4yx5Tp6GESqmxHk" anonymity="1">おつでした</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="577" vpos="283310" date="1613213594" date_usec="698052" user_id="2980337" premium="1">ｗ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="578" vpos="283179" date="1613213594" date_usec="719815" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">おおチョコだ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="579" vpos="281604" date="1613213594" date_usec="925880" user_id="13037037">     ･･</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="580" vpos="283800" date="1613213597" date_usec="791591" user_id="900000000" premium="3">/gift penguin 88880483 "さん3333" 300 "" "ペンギン" 2</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="581" vpos="283956" date="1613213601" date_usec="424672" user_id="15080559" premium="1">おつ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="582" vpos="283698" date="1613213601" date_usec="569062" mail="184" user_id="PrzARYvaTKElagTr1ODhqAZingU" anonymity="1">中野ブロードウェイから帰宅してきたあああああ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="583" vpos="283949" date="1613213602" date_usec="458415" mail="184 white naka medium" user_id="CjZN81lUK9_at1qPA3-r9d_jvdQ" premium="1" anonymity="1">しかも本命チョコ！？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="584" vpos="283569" date="1613213602" date_usec="618797" mail="184" user_id="BOlBGqe2heukJEenzndkBooppI0" anonymity="1">本命ｗ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="585" vpos="283150" date="1613213602" date_usec="724162" mail="184 white naka medium" user_id="W9BkKmeEbr-xLgTuhfgl_JDGjUo" anonymity="1">しかも映像ないのにwww</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="586" vpos="284335" date="1613213605" date_usec="39851" mail="184" user_id="Ujepm-HTg8zOLnftm1fAmYD10uM" anonymity="1">ペンギン降ってきた</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="587" vpos="284718" date="1613213610" date_usec="889127" mail="184" user_id="RGJZzi3l9umNYPNaC5Kp9YOGWfg" premium="1" anonymity="1">よかった</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="588" vpos="285150" date="1613213613" date_usec="123394" user_id="2980337" premium="1">配信でやれるならいいね</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="589" vpos="285042" date="1613213614" date_usec="160197" user_id="4196655" premium="1">また、洗ってね！</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="590" vpos="285584" date="1613213615" date_usec="844236" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion おつ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="591" vpos="284792" date="1613213618" date_usec="599271" mail="184" user_id="KR43C4ahZ9ijZFBPiip0xAy7tXw" premium="1" anonymity="1">おつがみ </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="592" vpos="285302" date="1613213619" date_usec="181448" mail="184" user_id="GcG0kAB6ltzX9Ov3JbOV8199zUk" anonymity="1">また</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="593" vpos="286137" date="1613213621" date_usec="376470" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion ノシ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="594" vpos="286012" date="1613213621" date_usec="739918" user_id="2980337" premium="1">おつー</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="595" vpos="286400" date="1613213623" date_usec="36127" user_id="900000000" premium="3">/gift tvchan NULL "名無し" 100 "" "テレビちゃん"</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="596" vpos="285899" date="1613213623" date_usec="84436" mail="184" user_id="PrzARYvaTKElagTr1ODhqAZingU" anonymity="1">ブロードウェイいこ？</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="597" vpos="286192" date="1613213623" date_usec="688020" mail="184" user_id="Ujepm-HTg8zOLnftm1fAmYD10uM" anonymity="1">おつ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="598" vpos="286446" date="1613213624" date_usec="473216" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion おつ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="599" vpos="286788" date="1613213627" date_usec="888430" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion おつ×3</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="600" vpos="286697" date="1613213628" date_usec="545019" user_id="2980337" premium="1">声聞こえるだけでうれしい～</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="601" vpos="287145" date="1613213631" date_usec="454553" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="602" vpos="287291" date="1613213632" date_usec="915168" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion おつ×2、 </chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="603" vpos="285582" date="1613213634" date_usec="809278" mail="184" user_id="OH1gk8a9AL3b7OsthPAQnRvdE0g" premium="1" anonymity="1">おつ洗い</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="604" vpos="287152" date="1613213635" date_usec="618139" mail="184" user_id="PrzARYvaTKElagTr1ODhqAZingU" anonymity="1">おつ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="605" vpos="287273" date="1613213635" date_usec="756727" mail="184 white naka medium" user_id="3JLrr4qwqjhPacjLRgNaPaMqMdk" premium="1" anonymity="1">おつかれさま</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="606" vpos="287474" date="1613213638" date_usec="409653" mail="184" user_id="RGJZzi3l9umNYPNaC5Kp9YOGWfg" premium="1" anonymity="1">バイバイ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="607" vpos="287949" date="1613213641" date_usec="238369" mail="184" user_id="Ujepm-HTg8zOLnftm1fAmYD10uM" anonymity="1">歯　磨けよ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="608" vpos="288185" date="1613213643" date_usec="593192" mail="184" user_id="Ujepm-HTg8zOLnftm1fAmYD10uM" anonymity="1">おつ</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="609" vpos="288628" date="1613213646" date_usec="293792" mail="184" user_id="CyFT0h75WCZN6uZ9VVqlSv8iyac" premium="3" anonymity="1">/emotion てあらい</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="610" vpos="287604" date="1613213647" date_usec="266432" mail="184 white naka medium" user_id="W9BkKmeEbr-xLgTuhfgl_JDGjUo" anonymity="1">待ってる！</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="612" vpos="287851" date="1613213647" date_usec="622872" mail="184" user_id="yIPGamJhuL_lQDdf3j3CyvlOXHU" anonymity="1">またな</chat>
+<chat thread="M.dHWN1JztDIphW45B_quHTA" no="613" vpos="288900" date="1613213648" date_usec="616611" mail="184" user_id="vtJNKXaLzcDbXD9eOk8BxBY-OXg" premium="2" anonymity="1">/disconnect</chat>
+</packet>
